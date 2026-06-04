@@ -7,7 +7,7 @@
 | :--- | :--- |
 | 📦 **Module ID:** | geanos-gdsa-qol |
 | ⚙️ **Compatibility:** | FoundryVTT v12+ |
-| 🧬 **System Req:** | Das Schwarze Auge 4.1 Core (gdsa) |
+| 🧬 **System Req:** | [Goody's DSA 4.1 System]([https://github.com/GeanoFeeFoundry/geanos-jump-n-run-editor](https://github.com/Thegoodmen/Goodys-DSA-4.1-System) |
 
 ---
 
