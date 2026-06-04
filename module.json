@@ -1,0 +1,33 @@
+{
+    "id": "geanos-gdsa-qol",
+    "title": "Geano's GDSA QoL",
+    "description": "Tooltips, SF-Automatisierung und Ziel-Effekte für das GDSA System. Zeigt Beschreibungen beim Hovern, automatisiert aktive SF-Prozesse, wendet Schaden und Statuseffekte auf Ziele an und mehr.",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12",
+        "maximum": "12"
+    },
+    "esmodules": [
+        "gdsa-sf.js"
+    ],
+    "styles": [
+        "css/gdsa-sf.css"
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "gdsa",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "0.9.3"
+                }
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "GeanoFee"
+        }
+    ]
+}
