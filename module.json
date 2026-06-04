@@ -1,33 +1,23 @@
 {
-    "id": "geanos-gdsa-qol",
-    "title": "Geano's GDSA QoL",
-    "description": "Tooltips, SF-Automatisierung und Ziel-Effekte für das GDSA System. Zeigt Beschreibungen beim Hovern, automatisiert aktive SF-Prozesse, wendet Schaden und Statuseffekte auf Ziele an und mehr.",
-    "version": "1.0.0",
-    "compatibility": {
-        "minimum": "12",
-        "verified": "12",
-        "maximum": "12"
-    },
-    "esmodules": [
-        "gdsa-sf.js"
-    ],
-    "styles": [
-        "css/gdsa-sf.css"
-    ],
-    "relationships": {
-        "systems": [
-            {
-                "id": "gdsa",
-                "type": "system",
-                "compatibility": {
-                    "minimum": "0.9.3"
-                }
-            }
-        ]
-    },
-    "authors": [
-        {
-            "name": "GeanoFee"
-        }
-    ]
+  "id": "geanos-gdsa-qol",
+  "title": "Geano's DSA Quality of Life",
+  "description": "Quality of Life improvements for the DSA system in FoundryVTT.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "GeanoFee",
+      "url": "https://github.com/GeanoFeeFoundry"
+    }
+  ],
+  "url": "https://github.com/GeanoFeeFoundry/geanos-gdsa-qol",
+  "manifest": "https://github.com/GeanoFeeFoundry/geanos-gdsa-qol/releases/download/1.0.0/module.json",
+  "download": "https://github.com/GeanoFeeFoundry/geanos-gdsa-qol/releases/download/1.0.0/module.zip",
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "license": "MIT"
 }
