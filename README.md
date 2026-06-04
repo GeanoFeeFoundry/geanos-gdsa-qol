@@ -15,7 +15,7 @@
 
 Paste this manifest URL directly into the FoundryVTT module installer:
 
-`https://github.com/GeanoFee/geanos-gdsa-qol/releases/download/latest/module.json`
+`https://github.com/GeanoFeeFoundry/geanos-gdsa-qol/releases/download/latest/module.json`
 
 ---
 
