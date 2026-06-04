@@ -7,7 +7,7 @@
 | :--- | :--- |
 | 📦 **Module ID:** | geanos-gdsa-qol |
 | ⚙️ **Compatibility:** | FoundryVTT v12+ |
-| 🧬 **System Req:** | **[Goddy's DSA 4.1 System](https://github.com/Thegoodmen/Goodys-DSA-4.1-System)** |
+| 🧬 **System Req:** | **[Goody's DSA 4.1 System](https://github.com/Thegoodmen/Goodys-DSA-4.1-System)** |
 
 ---
 
